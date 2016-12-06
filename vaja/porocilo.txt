@@ -1,0 +1,1 @@
+1. status vseh datotek pred shranjevanjem: "Unknown"
