@@ -1,2 +1,3 @@
 1. status vseh datotek pred shranjevanjem: "Unknown"
 2. status vseh datotek pred shranjevanjem: "Modified"
+3. status vseh datotek pred shranjevanjem: "Missing"
