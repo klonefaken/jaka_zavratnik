@@ -1,1 +1,2 @@
 1. status vseh datotek pred shranjevanjem: "Unknown"
+2. status vseh datotek pred shranjevanjem: "Modified"
